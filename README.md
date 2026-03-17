@@ -89,6 +89,8 @@ else:
 s.close()
 ```
 ## OUTPUT
+1.Download
+
 Server
 
 <img width="580" height="196" alt="image" src="https://github.com/user-attachments/assets/e2afccce-6917-4819-baf2-2991cc7a0080" />
@@ -96,6 +98,25 @@ Server
 Client
 
 <img width="653" height="849" alt="image" src="https://github.com/user-attachments/assets/09e1a84e-9806-4177-a790-2fde84bd609b" />
+
+Excecution
+
+<img width="1909" height="1011" alt="image" src="https://github.com/user-attachments/assets/416df394-bd40-4a51-a60d-0de1b9e6a568" />
+
+
+2.Upload
+
+Server
+
+<img width="612" height="256" alt="image" src="https://github.com/user-attachments/assets/a59d6be4-aa3e-4120-957f-02a50a5b9d82" />
+
+Client
+
+<img width="579" height="206" alt="image" src="https://github.com/user-attachments/assets/1a1f17fc-03d9-4cc8-b073-3c0b89cf01e1" />
+
+Excecution
+
+<img width="1909" height="1014" alt="image" src="https://github.com/user-attachments/assets/975bf6cc-0863-47a3-914d-3b8b15456559" />
 
 
 ## Result
